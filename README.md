@@ -1,5 +1,5 @@
 # mekatronik-sistem-tasar-m-
 İTÜ Mekatronik Mühendisliği, mekatronik sistem tasarımı ders projesi.
 
-Makina Öğrenimi ile parfüm hazırlayan robot projesi.
-Projede kullanılan yöntemler ve mekanik çizimler paylaşılmıştır.
+Proje olarak makina öğrenimi ile farklı kullanıcı grupları için en ideal parfümün hazırlanması amaçlanmaktadır. Bu bağlamda kullandığımız ekipmanları, mekanik çizimleri ve kodları açık kaynak olarak paylaşıyoruz.
+
